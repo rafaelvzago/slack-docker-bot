@@ -9,7 +9,7 @@
   "author": "Brad Traversy",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "nodemon": "^1.19.1",
     "slackbots": "^1.1.0"
   }
